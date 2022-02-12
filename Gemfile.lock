@@ -99,7 +99,7 @@ GEM
       racc (~> 1.4)
     orm_adapter (0.5.0)
     pg (1.2.3)
-    puma (4.3.10)
+    puma (4.3.11)
       nio4r (~> 2.0)
     racc (1.6.0)
     rack (2.2.3)
@@ -169,7 +169,7 @@ DEPENDENCIES
   devise_token_auth (~> 1.1.4)
   listen (~> 3.2)
   pg (>= 0.18, < 2.0)
-  puma (~> 4.1)
+  puma (~> 4.3)
   rails (~> 6.0.4, >= 6.0.4.4)
   spring
   spring-watcher-listen (~> 2.0.0)
